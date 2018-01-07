@@ -5,7 +5,7 @@ from distutils.core import setup
 
 setup(
     name='SimpleQuestions',
-    version='1.0',
+    version='1.0.1',
     description='Add a function to ask Yes/No questions',
     author='Rémy Jacquin',
     author_email='remy@remyj.fr',
